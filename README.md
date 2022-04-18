@@ -1,3 +1,5 @@
+# twinsta.xyz
+
 twinsta.xyz is the twitter client with less opinions!
 
 i'm creating twinsta because it feels like every time i go on twitter, instead of having healthy interactions, i end up feeling more upset than when i first logged on.
